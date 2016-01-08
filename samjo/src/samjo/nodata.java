@@ -6,6 +6,7 @@ public class nodata {
 		// TODO Auto-generated method stub
 		System.out.println("aa");
 		System.out.println("aa");
+		/*jooseok*/
 	}
 
 }
